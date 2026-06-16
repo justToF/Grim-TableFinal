@@ -1,0 +1,15 @@
+{
+    "asset": "7d4e8c3c52eb967409a86737c6a8da20",
+    "fileName": "019df9d5-e4dc-7bcf-a5b4-6860353e9891.wav",
+    "prompt": "A deep, raspy, creepy demonic male voice saying 'Shoot'",
+    "negativePrompt": "",
+    "model": "elevenlabs-multilingual-v2",
+    "modelName": "ElevenLabs Multilingual V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

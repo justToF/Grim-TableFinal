@@ -1,0 +1,38 @@
+{
+    "asset": "6598e4187a42411448323e3e3a44520e",
+    "fileName": "019e0cf8-7132-7acd-838c-57659e079fc4.png",
+    "prompt": "A Unity game asset sprite sheet. White background. A single hexagonal wooden decorative plaque for a UI button, exactly matching the art style and appearance of the buttons in the reference image. Dark, etched wood texture with ornate decorative borders. Centered with ample padding. Pure white background. No text.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "95532f0847313f042af35af4a85e787b",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "ce7af256906d6e74aa0ce64824128516",
+    "fileName": "019df9e4-8780-7262-b2b3-65b8903b6af5.wav",
+    "prompt": "A single utterance of the phrase 'Lights Out Duel' spoken once. Deep, demonic, raspy, low-pitch male voice. Say it only once at the very beginning and then absolute silence. No background noise, no repetition, no descriptions.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

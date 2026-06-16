@@ -1,0 +1,15 @@
+{
+    "asset": "d180ac1811bcf0747ae765b5ddf5e0c8",
+    "fileName": "019df9da-d4f9-74af-8fe7-4ed06d4b4d18.wav",
+    "prompt": "A deep, demonic, raspy male voice saying the word 'Shoot' once. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

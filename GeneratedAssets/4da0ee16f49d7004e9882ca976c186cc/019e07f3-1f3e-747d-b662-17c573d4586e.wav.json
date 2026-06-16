@@ -1,0 +1,15 @@
+{
+    "asset": "4da0ee16f49d7004e9882ca976c186cc",
+    "fileName": "019e07f3-1f3e-747d-b662-17c573d4586e.wav",
+    "prompt": "Soft cloth movement and rustling sound. Quiet and crisp fabric textures. Spoken once followed by 2 seconds of silence.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,28 @@
+{
+    "asset": "08382187bd32a4140b40d4a813e31d15",
+    "fileName": "019e0cdd-f89f-7e87-b1ab-d7e5107fc0e4.jpg",
+    "prompt": "A premium, dark fantasy style UI button, rectangular with rounded corners, glowing silver border, dark stone texture, elegant and clean. Hover state.",
+    "negativePrompt": "",
+    "model": "game-ui-essentials-2",
+    "modelName": "Game UI Essentials 2.0",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 2048
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

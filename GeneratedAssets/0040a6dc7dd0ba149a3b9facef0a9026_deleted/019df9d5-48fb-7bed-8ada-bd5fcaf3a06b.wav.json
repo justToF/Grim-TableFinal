@@ -1,0 +1,15 @@
+{
+    "asset": "0040a6dc7dd0ba149a3b9facef0a9026",
+    "fileName": "019df9d5-48fb-7bed-8ada-bd5fcaf3a06b.wav",
+    "prompt": "A deep, raspy, creepy demonic male voice saying 'Split or Steal'",
+    "negativePrompt": "",
+    "model": "elevenlabs-multilingual-v2",
+    "modelName": "ElevenLabs Multilingual V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

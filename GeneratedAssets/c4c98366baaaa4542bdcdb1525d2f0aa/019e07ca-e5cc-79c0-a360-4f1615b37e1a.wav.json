@@ -1,0 +1,15 @@
+{
+    "asset": "c4c98366baaaa4542bdcdb1525d2f0aa",
+    "fileName": "019e07ca-e5cc-79c0-a360-4f1615b37e1a.wav",
+    "prompt": "A single, loud, sudden door knocking sound. Sharp wood impact, echoing in a dark, empty room. Cinematic horror style. Spoken once followed by 5 seconds of silence. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

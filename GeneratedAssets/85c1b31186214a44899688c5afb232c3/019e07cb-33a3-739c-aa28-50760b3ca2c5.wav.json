@@ -1,0 +1,15 @@
+{
+    "asset": "85c1b31186214a44899688c5afb232c3",
+    "fileName": "019e07cb-33a3-739c-aa28-50760b3ca2c5.wav",
+    "prompt": "A single, sudden metallic cling followed by the sound of something small scurrying away inside a pipe. High-pitched scratching on metal. Followed by silence. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

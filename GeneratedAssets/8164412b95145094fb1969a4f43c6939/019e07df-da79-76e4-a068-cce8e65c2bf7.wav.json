@@ -1,0 +1,15 @@
+{
+    "asset": "8164412b95145094fb1969a4f43c6939",
+    "fileName": "019e07df-da79-76e4-a068-cce8e65c2bf7.wav",
+    "prompt": "Heavy wooden and metal gears grinding and turning, ominous rhythmic mechanical clockwork sound, dark fantasy atmosphere, sinister creaking mechanism.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

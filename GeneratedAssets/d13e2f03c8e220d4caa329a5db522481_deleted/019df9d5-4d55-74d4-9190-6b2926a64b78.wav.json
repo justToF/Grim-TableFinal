@@ -1,0 +1,15 @@
+{
+    "asset": "d13e2f03c8e220d4caa329a5db522481",
+    "fileName": "019df9d5-4d55-74d4-9190-6b2926a64b78.wav",
+    "prompt": "A deep, raspy, creepy demonic male voice saying 'Gamble'",
+    "negativePrompt": "",
+    "model": "elevenlabs-multilingual-v2",
+    "modelName": "ElevenLabs Multilingual V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "798152e54ed01d34e9fa1b9ad094aa6e",
+    "fileName": "019e07ec-b289-7f68-b0c6-f8f24a98e0c8.wav",
+    "prompt": "A sharp, sudden whip of a tree branch hitting a window. Sudden wood impact on glass. Muffled exterior sound. Spoken once followed by silence. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

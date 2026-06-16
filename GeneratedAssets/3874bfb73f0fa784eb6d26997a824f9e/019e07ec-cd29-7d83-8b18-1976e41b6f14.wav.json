@@ -1,0 +1,15 @@
+{
+    "asset": "3874bfb73f0fa784eb6d26997a824f9e",
+    "fileName": "019e07ec-cd29-7d83-8b18-1976e41b6f14.wav",
+    "prompt": "Heavy rain and distant thunder, muffled and filtered as if heard from inside a building through a closed window. Deep, atmospheric, cinematic dark fantasy. Loopable. No background music.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

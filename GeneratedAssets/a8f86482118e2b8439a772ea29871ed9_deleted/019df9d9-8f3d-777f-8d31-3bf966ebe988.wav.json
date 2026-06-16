@@ -1,0 +1,15 @@
+{
+    "asset": "a8f86482118e2b8439a772ea29871ed9",
+    "fileName": "019df9d9-8f3d-777f-8d31-3bf966ebe988.wav",
+    "prompt": "A deep, demonic, raspy male voice saying the word 'Gamble' once. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "946fd5e0d5badc6448ef0c70eb4ed5b8",
+    "fileName": "019e547d-3a5d-7ab5-ab5e-3f094bd84499.fbx",
+    "prompt": "Generic animation: A person sitting is knocked sideways by a blast, tumbling out of the chair onto the ground. High intensity.",
+    "negativePrompt": "",
+    "model": "uthana-text-to-motion",
+    "modelName": "Uthana Text to Motion",
+    "customSeed": 1012145218,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "isTrimmed": false
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "c44411f3254c81c409b39759f2a2c0c7",
+    "fileName": "019e547a-849d-7061-814e-18c87a312311.fbx",
+    "prompt": "A sitting person is blown backwards by an explosion, falling flat on their back with the chair tipping over behind them.",
+    "negativePrompt": "",
+    "model": "uthana-text-to-motion",
+    "modelName": "Uthana Text to Motion",
+    "customSeed": 1589283477,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "isTrimmed": false
+}

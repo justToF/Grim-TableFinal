@@ -1,0 +1,15 @@
+{
+    "asset": "5f3f2c571e7fcac43a570a1a2441973e",
+    "fileName": "019e07ca-e8c3-76e3-be86-222e537aea06.wav",
+    "prompt": "A sequence of 3 rapid, rhythmic door knocks. Heavy wood thud, muffled as if from another room. Cinematic dark fantasy style. Followed by 5 seconds of silence. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

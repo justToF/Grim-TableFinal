@@ -1,0 +1,15 @@
+{
+    "asset": "44f71fda29d789941939bc3bb4d50562",
+    "fileName": "019e07ec-cd9d-7f43-844c-4d420b49b185.wav",
+    "prompt": "Tree branches scratching and tapping against a glass window pane. High-pitched scraping and rhythmic wooden thuds. Dark, eerie, cinematic horror atmosphere. No background noise. Spoken once followed by silence.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

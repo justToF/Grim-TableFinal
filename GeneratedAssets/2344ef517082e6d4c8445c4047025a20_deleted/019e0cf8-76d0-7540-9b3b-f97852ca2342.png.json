@@ -1,0 +1,38 @@
+{
+    "asset": "2344ef517082e6d4c8445c4047025a20",
+    "fileName": "019e0cf8-76d0-7540-9b3b-f97852ca2342.png",
+    "prompt": "A dark tavern interior room in the same artistic style as the reference image (sepia tones, detailed ink sketch style, wood and brick textures). The room should be empty, showing a different corner of the tavern. Moody lighting, dark corners. No UI elements. No text. matching the etching style.",
+    "negativePrompt": "",
+    "model": "gemini-3.0-pro",
+    "modelName": "Gemini 3.0 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "95532f0847313f042af35af4a85e787b",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

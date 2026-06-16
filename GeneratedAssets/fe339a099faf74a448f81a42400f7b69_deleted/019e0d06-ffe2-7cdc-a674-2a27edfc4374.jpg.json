@@ -1,0 +1,38 @@
+{
+    "asset": "fe339a099faf74a448f81a42400f7b69",
+    "fileName": "019e0d06-ffe2-7cdc-a674-2a27edfc4374.jpg",
+    "prompt": "A hover state for this ornate fantasy UI button. Brighter than the original, with a subtle golden glow on the metallic edges and a more vibrant parchment center. Maintain the exact same shape and style as the reference.",
+    "negativePrompt": "",
+    "model": "game-ui-essentials-2",
+    "modelName": "Game UI Essentials 2.0",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "c02c4b1fa2eb696439bfbb77b539cae1",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 2048
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

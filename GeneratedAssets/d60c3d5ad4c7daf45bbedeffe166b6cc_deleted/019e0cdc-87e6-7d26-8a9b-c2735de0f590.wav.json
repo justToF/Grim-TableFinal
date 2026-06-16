@@ -1,0 +1,15 @@
+{
+    "asset": "d60c3d5ad4c7daf45bbedeffe166b6cc",
+    "fileName": "019e0cdc-87e6-7d26-8a9b-c2735de0f590.wav",
+    "prompt": "Short, satisfying UI click sound, mechanical stone click or heavy metal button press, tactile.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

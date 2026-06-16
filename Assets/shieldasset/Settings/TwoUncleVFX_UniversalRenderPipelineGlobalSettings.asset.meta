@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5af6878cab834f44494e8f7f553c9ed9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302283
+  packageName: VFX Graph - Shield Wall
+  packageVersion: 1.0
+  assetPath: Assets/TwoUncleVFX/Settings/TwoUncleVFX_UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 710685

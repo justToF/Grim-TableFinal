@@ -1,0 +1,57 @@
+# Documentație Proiect: Grim Table
+
+## 1. Descriere Generală
+Grim Table este un joc de strategie și supraviețuire la masă („tabletop”), plasat într-o atmosferă întunecată și tensionată a unui bar misterios. Jucătorul se află la o masă unde mizele sunt letale, interacționând cu cărți și entități periculoase sub supravegherea unei figuri centrale.
+
+## 2. Cum se joacă (Mecanici de bază)
+Jocul se desfășoară în runde, fiecare având o structură bine definită gestionată de un sistem de stări (GameState):
+
+* Faza de Distribuire (Dealing Cards): Jucătorii primesc cărți la începutul rundei, însoțite de animații fluide de distribuire.
+* Faza de Joc (Cards Play): Jucătorii își folosesc cărțile din inventar pentru a-și influența șansele sau pentru a-i sabota pe ceilalți.
+* Faza „Entity” (Entity Spinning/Action): O entitate centrală (sau un obiect de la masa „Grim”) se rotește și selectează un eveniment sau o țintă.
+* Evenimente Speciale: Jocul include mecanici variate de „death game” (Russian Roulette, Hot Potato, Split or Steal, etc.).
+
+## 3. Funcționalități Cheie
+
+### Atmosferă și Audio
+* Jukebox Funcțional: Un sistem de muzică de fundal care redă secvențial 3 piese instrumentale ambientale. Sistemul alege o piesă de start aleatorie și continuă în buclă.
+* Sunete Ambientale: Barul prinde viață prin sunete procedurale: bătăi în ușă, zgomote de șoareci, picături de ploaie și ciocănituri în fereastră.
+* Audio Mixer: Rutare profesională a sunetului prin MasterMixer, permițând controlul separat al volumului pentru muzică (Music) și efecte (SFX).
+
+### Sisteme Tehnice
+* Gestionarea Rundelor: Un GameManager complex care sincronizează animațiile, cronometrele și logica evenimentelor.
+* Sistem de Inventar: Jucătorul poate vizualiza și selecta cărțile prin animații dedicate.
+* Persistența Datelor: Setările de volum (Master și Music) sunt salvate automat între sesiuni via PlayerPrefs.
+
+## 4. Structura Meniurilor
+
+### Main Menu (Meniu Principal)
+* Play: Oferă acces la Normal Mode și Tutorial (Manual Mode).
+* Settings (Setări): Slidere pentru Master Volume și Music Volume.
+* Credits: Afișează creatorii proiectului.
+* Exit: Închide aplicația.
+
+### Pause Menu (Meniu de Pauză)
+* Resume: Continuă jocul.
+* Settings: Acces la setările de volum.
+* Main Menu: Întoarcere la ecranul de start (resetează camera și cursorul).
+* Quit: Închidere rapidă.
+
+## 5. Explicația Evenimentelor (Grim Events)
+* Russian Roulette: Un pistol cu un singur glonț trece pe la fiecare jucător.
+* Hot Potato: O bombă cu cronometru ce trebuie pasată rapid; cel care o deține la explozie este eliminat.
+* Lights Out: Beznă totală unde un jucător trage la sorți sau alege o țintă cu 50% șansă de foc letal.
+* Split or Steal: Dilemă între doi jucători pentru împărțirea sau furarea recompensei.
+* Vote 1 Out: Vot secret pentru eliminarea unui participant.
+* Gamble: Alegere de risc pentru a câștiga cărți sau a suferi consecințe.
+
+## 6. Sistemul de Cărți (Inventory Cards)
+* Shield Card: Protejează de următorul atac direct.
+* Reload Card: Adaugă gloanțe sau reîmprospătează capacitățile ofensive.
+* Sixth Sense: Dezvăluie informații despre glonț sau următoarea carte.
+* Thief Card: Permite furarea unei cărți de la un adversar.
+* Spy Card: Dezvăluie cărțile unui alt participant.
+* Last Laugh: Permite un ultim foc de armă după eliminare.
+* Compromise: Utilizatorul și o țintă primesc câte o carte nouă.
+* Deck Swap: Schimbă toată mâna de cărți cu cea a unui adversar.
+* Ghost: Face jucătorul intangibil pentru o rundă.

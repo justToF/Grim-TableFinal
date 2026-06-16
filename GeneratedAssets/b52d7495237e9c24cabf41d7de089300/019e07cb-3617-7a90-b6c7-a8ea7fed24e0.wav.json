@@ -1,0 +1,15 @@
+{
+    "asset": "b52d7495237e9c24cabf41d7de089300",
+    "fileName": "019e07cb-3617-7a90-b6c7-a8ea7fed24e0.wav",
+    "prompt": "Quiet scratching and rustling sounds of mice moving through air ducts or pipes. Metallic resonance, very subtle and eerie. Followed by silence. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

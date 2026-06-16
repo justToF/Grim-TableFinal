@@ -1,0 +1,15 @@
+{
+    "asset": "c420980b39b8a2848866e814565d2208",
+    "fileName": "019df9f3-ea85-71d3-975e-76829c191e8a.wav",
+    "prompt": "A single, ultra-deep, guttural demonic male voice firmly pronouncing \"Hot Potato\" once. Cinematic dark fantasy style, gravelly texture, high vocal clarity, bone-chilling tone. No background music, no ambient noise, no echo, no reverb.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

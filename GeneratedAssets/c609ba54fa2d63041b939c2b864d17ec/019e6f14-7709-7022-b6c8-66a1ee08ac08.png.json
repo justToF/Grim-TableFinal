@@ -1,0 +1,38 @@
+{
+    "asset": "c609ba54fa2d63041b939c2b864d17ec",
+    "fileName": "019e6f14-7709-7022-b6c8-66a1ee08ac08.png",
+    "prompt": "Remove the scythe, swords, and spider webs. Leave only the stylized 'GRIM TABLE' text. Ensure the wood and thorn texture on the text itself remains, but delete all decorative elements surrounding or attached to the letters that are not the letters themselves. High detail, clean edges.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "c609ba54fa2d63041b939c2b864d17ec",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

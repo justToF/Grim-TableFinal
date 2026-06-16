@@ -1,0 +1,12 @@
+{
+    "asset": "42a4b35db53bca946ac653a0a1316a4b",
+    "fileName": "019e547a-ec3a-71f5-ac36-7cd9d89e1dfa.fbx",
+    "prompt": "A sitting person is thrown to the side by an explosion, falling off the chair and landing on the floor on their side.",
+    "negativePrompt": "",
+    "model": "uthana-text-to-motion",
+    "modelName": "Uthana Text to Motion",
+    "customSeed": 1670259653,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "isTrimmed": false
+}

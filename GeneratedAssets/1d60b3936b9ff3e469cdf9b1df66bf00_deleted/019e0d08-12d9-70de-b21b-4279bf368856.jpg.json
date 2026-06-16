@@ -1,0 +1,38 @@
+{
+    "asset": "1d60b3936b9ff3e469cdf9b1df66bf00",
+    "fileName": "019e0d08-12d9-70de-b21b-4279bf368856.jpg",
+    "prompt": "A pressed state for this ornate fantasy UI button. Darker than the original, with a recessed, pushed-in look. Deeper shadows on the parchment and less specular highlight on the metal frame. Maintain the exact same shape and style as the reference.",
+    "negativePrompt": "",
+    "model": "game-ui-essentials-2",
+    "modelName": "Game UI Essentials 2.0",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "c02c4b1fa2eb696439bfbb77b539cae1",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 2048,
+        "height": 2048
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

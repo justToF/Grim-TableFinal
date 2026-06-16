@@ -1,0 +1,15 @@
+{
+    "asset": "3956b74180f5c004d97578648a283966",
+    "fileName": "019dfa03-f973-7cad-a208-cbef179bc120.wav",
+    "prompt": "A single, deep, commanding demonic male voice clearly speaking the phrase 'Vote One Out' once. High definition vocal clarity, precise enunciation of each word, cinematic dark fantasy style. Professional voiceover quality with no distortion and no rasp. Spoken once at the very beginning with natural spacing between words, followed by absolute silence. No background noise, no echo, no reverb, no music.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "efbddf4495a37ab40b24d0d18fc71924",
+    "fileName": "019df9d5-e793-7cba-be33-e016fa9734bd.wav",
+    "prompt": "A deep, raspy, creepy demonic male voice saying 'Vote 1 Out'",
+    "negativePrompt": "",
+    "model": "elevenlabs-multilingual-v2",
+    "modelName": "ElevenLabs Multilingual V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

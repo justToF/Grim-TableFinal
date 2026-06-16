@@ -1,0 +1,15 @@
+{
+    "asset": "81eba39c26a58c843a0aae2d43b27f60",
+    "fileName": "019df9ee-34ed-7ef8-ab64-57b2f71c7d36.wav",
+    "prompt": "A single, powerful utterance of the words 'Split or Steal'. Deep, demonic, guttural male voice with high clarity and crisp pronunciation. Cinematic dark fantasy style, gravelly texture, high vocal clarity, bone-chilling tone. Spoken immediately at the start followed by 5 seconds of absolute silence. No background music, no ambient noise, no echo, no reverb.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

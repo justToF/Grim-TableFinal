@@ -1,0 +1,15 @@
+{
+    "asset": "732b23d4d1a05f14ba8061834abb70d9",
+    "fileName": "019df9e0-d856-7495-8423-5eb6b727f79f.wav",
+    "prompt": "A single, short utterance of the words 'Hot Potato'. Deep, demonic, raspy, low-pitch male voice. No echo, no repetition, say it only once.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

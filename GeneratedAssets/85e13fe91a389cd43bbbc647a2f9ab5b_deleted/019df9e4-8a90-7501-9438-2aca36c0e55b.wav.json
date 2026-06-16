@@ -1,0 +1,15 @@
+{
+    "asset": "85e13fe91a389cd43bbbc647a2f9ab5b",
+    "fileName": "019df9e4-8a90-7501-9438-2aca36c0e55b.wav",
+    "prompt": "A single utterance of the phrase 'Hot Potato' spoken once. Deep, demonic, raspy, low-pitch male voice. Say it only once at the very beginning and then absolute silence. No background noise, no repetition, no descriptions.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

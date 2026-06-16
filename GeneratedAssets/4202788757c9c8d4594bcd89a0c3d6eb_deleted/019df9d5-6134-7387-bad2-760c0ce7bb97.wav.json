@@ -1,0 +1,15 @@
+{
+    "asset": "4202788757c9c8d4594bcd89a0c3d6eb",
+    "fileName": "019df9d5-6134-7387-bad2-760c0ce7bb97.wav",
+    "prompt": "A deep, raspy, creepy demonic male voice saying 'Hot Potato'",
+    "negativePrompt": "",
+    "model": "elevenlabs-multilingual-v2",
+    "modelName": "ElevenLabs Multilingual V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

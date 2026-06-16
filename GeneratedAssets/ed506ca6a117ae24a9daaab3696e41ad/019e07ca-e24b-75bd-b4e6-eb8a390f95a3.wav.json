@@ -1,0 +1,15 @@
+{
+    "asset": "ed506ca6a117ae24a9daaab3696e41ad",
+    "fileName": "019e07ca-e24b-75bd-b4e6-eb8a390f95a3.wav",
+    "prompt": "The sound of a small animal scuttling and scratching inside a metal pipe. Fast, erratic metallic scraping and high-pitched squeaks. Very quiet, distant. Spoken once followed by silence. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

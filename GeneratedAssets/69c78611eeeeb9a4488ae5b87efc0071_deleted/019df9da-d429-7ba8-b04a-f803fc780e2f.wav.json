@@ -1,0 +1,15 @@
+{
+    "asset": "69c78611eeeeb9a4488ae5b87efc0071",
+    "fileName": "019df9da-d429-7ba8-b04a-f803fc780e2f.wav",
+    "prompt": "A deep, demonic, raspy male voice saying the phrase 'Vote One Out' once. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

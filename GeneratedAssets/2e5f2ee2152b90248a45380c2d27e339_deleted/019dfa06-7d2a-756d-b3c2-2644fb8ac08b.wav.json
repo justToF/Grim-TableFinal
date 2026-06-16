@@ -1,0 +1,15 @@
+{
+    "asset": "2e5f2ee2152b90248a45380c2d27e339",
+    "fileName": "019dfa06-7d2a-756d-b3c2-2644fb8ac08b.wav",
+    "prompt": "A single, deep, menacing demonic male voice clearly articulating the word 'Shoot' once. High vocal definition, cinematic dark style, powerful delivery. The pronunciation must be slow and deliberate to ensure the 'Sh' and 't' sounds are crisp and audible. Spoken once at the very beginning followed by absolute silence. No distortion, no background noise, no echo, no reverb.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

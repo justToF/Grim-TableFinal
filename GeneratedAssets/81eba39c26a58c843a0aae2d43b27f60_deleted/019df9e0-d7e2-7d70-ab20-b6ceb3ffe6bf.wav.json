@@ -1,0 +1,15 @@
+{
+    "asset": "81eba39c26a58c843a0aae2d43b27f60",
+    "fileName": "019df9e0-d7e2-7d70-ab20-b6ceb3ffe6bf.wav",
+    "prompt": "A single, short utterance of the words 'Split or Steal'. Deep, demonic, raspy, low-pitch male voice. No echo, no repetition, say it only once.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

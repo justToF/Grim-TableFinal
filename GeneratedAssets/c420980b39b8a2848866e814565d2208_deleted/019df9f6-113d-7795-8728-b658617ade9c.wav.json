@@ -1,0 +1,15 @@
+{
+    "asset": "c420980b39b8a2848866e814565d2208",
+    "fileName": "019df9f6-113d-7795-8728-b658617ade9c.wav",
+    "prompt": "A single, thunderous, guttural demonic male voice clearly enunciating the phrase 'Hot Potato' once. deep pitch, raspy texture, high definition vocal clarity. Cinematic monster style. Spoken once at the very beginning with a brief pause between words for clarity, followed by absolute silence. No background noise, no music, no echo, no distortion.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

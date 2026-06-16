@@ -1,0 +1,15 @@
+{
+    "asset": "a3117b9a48d362a43ac01f7d5de330dc",
+    "fileName": "019df9fa-058b-7de6-82e1-2d16103865bc.wav",
+    "prompt": "A single, thunderous, guttural demonic male voice clearly enunciating the phrase 'Russian Roulette' once. deep pitch, raspy texture, high definition vocal clarity. Cinematic monster style. Spoken once at the very beginning with a brief pause between words for clarity, followed by absolute silence. No background noise, no music, no echo, no distortion.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

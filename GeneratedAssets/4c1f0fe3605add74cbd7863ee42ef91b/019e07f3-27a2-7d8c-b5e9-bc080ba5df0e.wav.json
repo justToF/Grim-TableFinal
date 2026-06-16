@@ -1,0 +1,15 @@
+{
+    "asset": "4c1f0fe3605add74cbd7863ee42ef91b",
+    "fileName": "019e07f3-27a2-7d8c-b5e9-bc080ba5df0e.wav",
+    "prompt": "Soft, subtle clothing rustle. Fabric movement sound of a heavy coat or suit. Quiet, high definition, no background noise. Spoken once followed by 2 seconds of silence.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

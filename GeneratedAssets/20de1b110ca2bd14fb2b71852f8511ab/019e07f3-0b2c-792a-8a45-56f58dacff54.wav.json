@@ -1,0 +1,15 @@
+{
+    "asset": "20de1b110ca2bd14fb2b71852f8511ab",
+    "fileName": "019e07f3-0b2c-792a-8a45-56f58dacff54.wav",
+    "prompt": "Faint fabric rustle, movement of heavy clothing. High definition, very quiet. Spoken once followed by 2 seconds of silence.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

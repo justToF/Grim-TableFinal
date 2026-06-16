@@ -1,0 +1,38 @@
+{
+    "asset": "4b18811fb3f32604f99026676d4fe0b5",
+    "fileName": "019e6f2b-d012-77f5-907c-a9f32dba7f6c.png",
+    "prompt": "Subtly adjust the color palette of this image to be slightly warmer and closer to the bronze/sepia tones of the button in the reference image. The change should be very subtle, ensuring the background still feels like a sketchy, hand-drawn environment but matches the UI buttons better. Do not change the composition or the drawing style.",
+    "negativePrompt": "",
+    "model": "gpt-image-1-5",
+    "modelName": "GPT Image 1.5",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "c02c4b1fa2eb696439bfbb77b539cae1",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

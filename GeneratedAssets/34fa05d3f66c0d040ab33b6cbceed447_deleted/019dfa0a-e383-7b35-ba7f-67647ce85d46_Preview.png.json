@@ -1,0 +1,12 @@
+{
+    "asset": "34fa05d3f66c0d040ab33b6cbceed447",
+    "fileName": "019dfa0a-e383-7b35-ba7f-67647ce85d46_Preview.png",
+    "prompt": "texture that can fit in a old creepy bar where you play games for life or death\n",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash-texture",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": 896207241,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation"
+}

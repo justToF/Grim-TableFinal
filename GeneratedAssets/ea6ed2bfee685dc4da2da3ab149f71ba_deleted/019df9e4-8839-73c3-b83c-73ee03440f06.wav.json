@@ -1,0 +1,15 @@
+{
+    "asset": "ea6ed2bfee685dc4da2da3ab149f71ba",
+    "fileName": "019df9e4-8839-73c3-b83c-73ee03440f06.wav",
+    "prompt": "A single utterance of the word 'Gamble' spoken once. Deep, demonic, raspy, low-pitch male voice. Say it only once at the very beginning and then absolute silence. No background noise, no repetition, no descriptions.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "4cd6d62fc7f40e04b98f198b9d9bb128",
+    "fileName": "019df9f7-b3d0-770e-8ceb-c689a7ecd38c.wav",
+    "prompt": "A single, thunderous, guttural demonic male voice clearly enunciating the phrase 'Lights Out' once. deep pitch, raspy texture, high definition vocal clarity. Cinematic monster style. Spoken once at the very beginning with a brief pause between words for clarity, followed by absolute silence. No background noise, no music, no echo, no distortion.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

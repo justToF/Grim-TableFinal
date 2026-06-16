@@ -1,0 +1,15 @@
+{
+    "asset": "7cc98df567a98d54cae7d3299ac75c0b",
+    "fileName": "019df9d5-e644-7300-913d-d5e7cf6fe07c.wav",
+    "prompt": "A deep, raspy, creepy demonic male voice saying 'Russian Roulette'",
+    "negativePrompt": "",
+    "model": "elevenlabs-multilingual-v2",
+    "modelName": "ElevenLabs Multilingual V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

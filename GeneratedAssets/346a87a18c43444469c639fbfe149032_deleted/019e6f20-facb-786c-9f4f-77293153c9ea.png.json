@@ -1,0 +1,38 @@
+{
+    "asset": "346a87a18c43444469c639fbfe149032",
+    "fileName": "019e6f20-facb-786c-9f4f-77293153c9ea.png",
+    "prompt": "Engrave the text 'Grim Table' into the wooden floor to the right of the pool table. The engraving should look like it's carved into the wood, matching the lighting and the sketchy, hand-drawn art style of the rest of the image. Maintain everything else exactly as it is. Do not modify anything else.",
+    "negativePrompt": "",
+    "model": "gemini-3.1-flash",
+    "modelName": "Gemini 3.1 Nano Banana 2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "346a87a18c43444469c639fbfe149032",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

@@ -1,0 +1,12 @@
+{
+    "asset": "ff9175361422ff440bc0e7e5ee42ca0d",
+    "fileName": "019e547d-3fbb-74e7-8482-68e6c7419619.fbx",
+    "prompt": "Generic animation: A person sitting on a chair is blown backwards by a violent explosion, falling onto their back. High intensity movement.",
+    "negativePrompt": "",
+    "model": "uthana-text-to-motion",
+    "modelName": "Uthana Text to Motion",
+    "customSeed": 933764523,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "isTrimmed": false
+}

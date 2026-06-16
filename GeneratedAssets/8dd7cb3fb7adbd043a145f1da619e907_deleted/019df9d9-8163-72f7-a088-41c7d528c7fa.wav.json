@@ -1,0 +1,15 @@
+{
+    "asset": "8dd7cb3fb7adbd043a145f1da619e907",
+    "fileName": "019df9d9-8163-72f7-a088-41c7d528c7fa.wav",
+    "prompt": "A deep, demonic, raspy male voice saying the phrase 'Split or Steal' once. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

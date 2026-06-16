@@ -1,0 +1,15 @@
+{
+    "asset": "7ec7d37f8b451ed4da50e8978accb2e8",
+    "fileName": "019df9e0-d769-7d13-a9ce-eb3d5152e15e.wav",
+    "prompt": "A single, short utterance of the words 'Lights Out Duel'. Deep, demonic, raspy, low-pitch male voice. No echo, no repetition, say it only once.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

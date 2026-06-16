@@ -1,0 +1,15 @@
+{
+    "asset": "a96c0db5d05768344954e702c19f5bcc",
+    "fileName": "019df9d9-8435-78fd-aa1d-2264a906d9f6.wav",
+    "prompt": "A deep, demonic, raspy male voice saying the phrase 'Lights Out Duel' once. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

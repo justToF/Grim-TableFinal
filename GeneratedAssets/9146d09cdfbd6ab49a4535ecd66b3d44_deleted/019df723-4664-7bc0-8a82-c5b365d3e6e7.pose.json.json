@@ -1,0 +1,12 @@
+{
+    "asset": "9146d09cdfbd6ab49a4535ecd66b3d44",
+    "fileName": "019df723-4664-7bc0-8a82-c5b365d3e6e7.pose.json",
+    "prompt": "A person sitting at a table is suddenly shot from the front. They jerk back slightly, then slump forward, their head hitting the table in front of them. Their arms, which were resting on the table, slide off the sides and hang limply down towards the floor. The person remains still.",
+    "negativePrompt": "",
+    "model": "unity-text-to-motion",
+    "modelName": "Text to Motion",
+    "customSeed": 1732636996,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "isTrimmed": false
+}

@@ -1,0 +1,15 @@
+{
+    "asset": "c299fa34bed23f944892919e562a82a9",
+    "fileName": "019df9da-d58f-76c0-adae-58034bbef2ff.wav",
+    "prompt": "A deep, demonic, raspy male voice saying the phrase 'Lights Out' once. No background noise.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

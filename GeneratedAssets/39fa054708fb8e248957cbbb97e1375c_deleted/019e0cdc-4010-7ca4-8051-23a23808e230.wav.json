@@ -1,0 +1,15 @@
+{
+    "asset": "39fa054708fb8e248957cbbb97e1375c",
+    "fileName": "019e0cdc-4010-7ca4-8051-23a23808e230.wav",
+    "prompt": "Short, subtle, elegant UI hover sound, soft metallic swish or magical chime, low volume.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 1.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

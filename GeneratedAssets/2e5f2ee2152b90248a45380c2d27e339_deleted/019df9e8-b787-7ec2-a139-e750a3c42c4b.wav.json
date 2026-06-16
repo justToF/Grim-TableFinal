@@ -1,0 +1,15 @@
+{
+    "asset": "2e5f2ee2152b90248a45380c2d27e339",
+    "fileName": "019df9e8-b787-7ec2-a139-e750a3c42c4b.wav",
+    "prompt": "A single, powerful utterance of the word 'Shoot'. Deep, demonic, guttural male voice with high clarity and crisp pronunciation. Cinematic dark fantasy style. Spoken exactly once at the very beginning, followed by absolute silence. No echo, no background ambient noise, no reverb tails, no repetition.",
+    "negativePrompt": "",
+    "model": "elevenlabs-sound-effects-v2",
+    "modelName": "ElevenLabs Sound Effects V2",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false,
+    "voice": ""
+}

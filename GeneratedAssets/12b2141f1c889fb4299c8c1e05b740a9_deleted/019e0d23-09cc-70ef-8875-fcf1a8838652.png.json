@@ -1,0 +1,38 @@
+{
+    "asset": "12b2141f1c889fb4299c8c1e05b740a9",
+    "fileName": "019e0d23-09cc-70ef-8875-fcf1a8838652.png",
+    "prompt": "Hover state for this ornate fantasy parchment button. Based on these CSS specifications: 20% brighter, 10% more contrast, and a soft radiant golden glow (hex #D4AF37) radiating from the edges. High-quality UI asset, matching the reference's ornate metallic frame and parchment center perfectly. Transparent background, no solid background color.",
+    "negativePrompt": "",
+    "model": "flux-2-dev",
+    "modelName": "Flux 2 (Dev)",
+    "customSeed": -1,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelatePixelGridSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": [
+            {
+                "doodleReferenceType": 7,
+                "doodle": [],
+                "label": "Image",
+                "strength": 0.25,
+                "invertStrength": false,
+                "assetReferenceGuid": "c02c4b1fa2eb696439bfbb77b539cae1",
+                "unlabeledIndex": -1
+            }
+        ]
+    },
+    "upscaleFactor": 0,
+    "dimensions": {
+        "width": 1024,
+        "height": 1024
+    },
+    "spriteSheet": false,
+    "duration": 0.0
+}

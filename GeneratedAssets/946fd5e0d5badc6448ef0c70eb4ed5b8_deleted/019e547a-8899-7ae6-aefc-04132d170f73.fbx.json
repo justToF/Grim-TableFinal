@@ -1,0 +1,12 @@
+{
+    "asset": "946fd5e0d5badc6448ef0c70eb4ed5b8",
+    "fileName": "019e547a-8899-7ae6-aefc-04132d170f73.fbx",
+    "prompt": "A sitting person is knocked sideways by a blast, tumbling out of the chair and onto the ground.",
+    "negativePrompt": "",
+    "model": "uthana-text-to-motion",
+    "modelName": "Uthana Text to Motion",
+    "customSeed": 1016587498,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "isTrimmed": false
+}

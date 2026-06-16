@@ -1,0 +1,12 @@
+{
+    "asset": "c44411f3254c81c409b39759f2a2c0c7",
+    "fileName": "019e547d-3a57-7e19-a6fe-719ccda59707.fbx",
+    "prompt": "Generic animation: A person sitting is blown backwards by an explosion, falling flat on their back with high force.",
+    "negativePrompt": "",
+    "model": "uthana-text-to-motion",
+    "modelName": "Uthana Text to Motion",
+    "customSeed": 1128669163,
+    "w3CTraceId": "",
+    "feedback": 0,
+    "isTrimmed": false
+}
